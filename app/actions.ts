@@ -27,4 +27,3 @@ export async function deleteMessage(id: string) {
   // We'll handle the actual deletion in the client component
   return { success: true, id }
 }
-

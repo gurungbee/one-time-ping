@@ -72,4 +72,3 @@ export default function MessageView({ id }: MessageViewProps) {
     </div>
   )
 }
-

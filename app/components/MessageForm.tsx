@@ -75,7 +75,7 @@ export default function MessageForm() {
         />
       </div>
       <button type="submit" className="btn-primary w-full">
-        Create One-Time Message
+        Submit
       </button>
       {link && (
         <div className="mt-6 space-y-2">
@@ -122,4 +122,3 @@ export default function MessageForm() {
     </form>
   )
 }
-
